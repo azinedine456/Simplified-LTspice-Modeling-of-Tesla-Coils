@@ -19,9 +19,9 @@ This repository contains a **personal project** focused on understanding, modeli
 
 ---
 ##  Circuit & Results
-
-<img width="816" height="374" alt="image" src="https://github.com/user-attachments/assets/3a457361-6b04-471d-bc17-ff02e3d61da2" />
 <img width="816" height="374" alt="image" src="https://github.com/user-attachments/assets/88d56598-a6a7-40e9-8601-9abbe22508af" />
+<img width="816" height="374" alt="image" src="https://github.com/user-attachments/assets/3a457361-6b04-471d-bc17-ff02e3d61da2" />
+
 
 ---
 
