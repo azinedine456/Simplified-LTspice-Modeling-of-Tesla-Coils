@@ -7,7 +7,7 @@ This repository contains a **personal project** focused on understanding, modeli
 ## Project Objectives
 
 - **Understand the operation** and underlying physics of a spark gap Tesla coil.  
-- **Use behavioral components in LTspice** to simulate circuit dynamics and resonant behavior.  
+- **Use behavioral components in LTspice** to simulate circuit dynamics.  
 - **Develop a simplified model** based on the methodology described in **Mitch Tilbury’s _“The Ultimate Tesla Coil Design and Construction Guide”_**.
 
 ---
