@@ -15,7 +15,7 @@ This repository contains a **personal project** focused on understanding, modeli
 ##  Tools & Environment
 
 - **Simulation Software:** LTspice  
-- **Modeling Focus:** Resonant circuits, spark gap behavior, energy transfer efficiency  
+- **Modeling Focus:** Resonant circuits, spark gap behavior, energy transfer   
 
 ---
 ##  Circuit & Results
